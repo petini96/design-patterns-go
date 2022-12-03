@@ -11,14 +11,6 @@ You can browse folders and run examples separately.
 - Illustrate a real world situation
 
 ----
-**Table of Contents**
-
-[TOCM]
-
-
-[TOC]
-
-----
 ## Get Started
 ### Using docker
 
